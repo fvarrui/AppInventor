@@ -1,3 +1,3 @@
 # Tutorial AppInventor2
 
-Guías de uso de [AppInventor](https://appinventor.mit.edu/).
+Guías sobre cómo crear aplicaciones móviles de forma sencilla con [AppInventor](https://appinventor.mit.edu/).
