@@ -4,11 +4,11 @@ Aplicación que muestra la imagen de un burro que rebuzna al pulsar el botón.
 
 ### Crear el proyecto
 
-Creamos un proyecto [nuevo](../../crear-un-nuevo-proyecto) de nombre `HolaBurrito`.
+Creamos un proyecto [nuevo](../../tutoriales/crear-un-nuevo-proyecto) de nombre `HolaBurrito`.
 
 ### Diseñar la interfaz
 
-Abrimos el [**Diseñador**](../../disenador).
+Abrimos el [**Diseñador**](../../tutoriales/disenador).
 
 #### Subir los medios al proyecto
 
@@ -105,3 +105,7 @@ Para que nuestra aplicación reproduzca el audio **rebuzno.mp3** cuando se haga 
 3. Probamos la aplicación:
 
    ![](ai2companion-probando.jpg)
+
+### Publicar el proyecto
+
+[Instrucciones para publicar el proyecto](../../tutoriales/publicar-un-proyecto).
