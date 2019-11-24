@@ -2,7 +2,7 @@
 
 Para cambiar de pantalla debemos usar el bloque `open another screen`  pasándole una cadena de texto con el nombre de la pantalla a la que queremos ir. 
 
-![](images/como-cambiar-de-una-pantalla-a-otra-01.png)
+![](images/cambiar-de-una-pantalla-a-otra-01.png)
 
 En el ejemplo anterior, se cambia a la pantalla `Screen1` al hacer clic en el botón `HomeButton`.
 

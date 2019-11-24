@@ -6,14 +6,14 @@ Cómo crear aplicaciones móviles de forma sencilla con [AppInventor](https://ap
 
 ## Guías y tutoriales
 
-- Cómo crear un proyecto nuevo.
-- El diseñador.
-- El editor de bloques.
-- Probar la aplicación en el tablet mediante Wi-Fi.
-- Probar la aplicación en el tablet mediante cable USB.
-- Probar la aplicación en el emulador.
-- [Cómo cambiar de una pantalla (screen) a otra](como-cambiar-de-una-pantalla-a-otra)
-- [Cómo intercambiar información entre pantallas](como-intercambiar-informacion-entre-pantallas)
+- [Crear un proyecto nuevo](tutoriales/crear-un-proyecto-nuevo)
+- [Diseñador](tutoriales/disenador)
+- [Editor de bloques](tutoriales/editor-de-bloques)
+- [Probar la aplicación en el dispositivo móvil mediante Wi-Fi](tutoriales/probar-la-aplicacion-en-el-dispositivo-movil-mediante-wi-fi)
+- [Probar la aplicación en el dispositivo móvil mediante cable USB](tutoriales/probar-la-aplicacion-en-el-dispositivo-movil-mediante-cable-usb)
+- [Probar la aplicación en el emulador](tutoriales/probar-la-aplicacion-en-el-emulador)
+- [Cambiar de una pantalla (screen) a otra](tutoriales/cambiar-de-una-pantalla-a-otra)
+- [Intercambiar información entre pantallas](tutoriales/intercambiar-informacion-entre-pantallas)
 
 ## Prácticas
 

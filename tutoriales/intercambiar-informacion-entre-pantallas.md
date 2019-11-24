@@ -4,7 +4,7 @@ Los componentes y las variables disponibles en una pantalla no están disponible
 
 Una o ambas pantallas podrán cambiar los datos compartidos, y en las pantallas en las que deseen recuperar los datos será necesario un bloque de tipo `Screen.Initialize`, como se muestra a continuación:
 
-![](images/como-intercambiar-informacion-entre-pantallas-01.png)
+![](images/intercambiar-informacion-entre-pantallas-01.png)
 
 ## Guardar el valor en la base de datos
 
