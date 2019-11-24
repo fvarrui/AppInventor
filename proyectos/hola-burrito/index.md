@@ -6,13 +6,13 @@ Aplicación que muestra la imagen de un burro que rebuzna al pulsar el botón.
 
 Creamos un proyecto [nuevo](../../crear-un-nuevo-proyecto) de nombre `HolaBurrito`.
 
-### Diseñar de la interfaz gráfica de usuario
+### Diseñar la interfaz
 
 Abrimos el [**Diseñador**](../../disenador).
 
 #### Subir los medios al proyecto
 
-1. Descargamos la imagen del [burro]() y el sonido del [rebuzno]() en nuestro PC.
+1. Descargamos la imagen del [burro]( https://raw.githubusercontent.com/fvarrui/AppInventor/master/proyectos/hola-burrito/burro.png ) y el sonido del [rebuzno]( https://raw.githubusercontent.com/fvarrui/AppInventor/master/proyectos/hola-burrito/rebuzno.mp3 ) a nuestro PC.
 
 2. Subimos la imagen del burro al proyecto:
 
@@ -100,7 +100,7 @@ Para que nuestra aplicación reproduzca el audio **rebuzno.mp3** cuando se haga 
 
 2. Abrimos MIT AI2 Companion en el dispositivo móvil e introducimos el código.
 
-   ![](C:\Users\fvarrui\GitHub\AppInventor\proyectos\hola-burrito\ai2companion-conectar-con-codigo.jpg)
+   ![](ai2companion-conectar-con-codigo.jpg)
 
 3. Probamos la aplicación:
 
