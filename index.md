@@ -4,7 +4,7 @@ Cómo crear aplicaciones móviles de forma sencilla con [AppInventor](https://ap
 
 - [El móvil como recurso didáctico](https://docs.google.com/presentation/d/10dgxGJN1xbqBhV4Pzazc5RxcroJgh6kRAVwRqx2GLuo/edit?usp=sharing)
 
-## Guías y tutoriales
+## Tutoriales
 
 - [Crear un proyecto nuevo](tutoriales/crear-un-proyecto-nuevo)
 - [Diseñador](tutoriales/disenador)
@@ -15,13 +15,13 @@ Cómo crear aplicaciones móviles de forma sencilla con [AppInventor](https://ap
 - [Cambiar de una pantalla (screen) a otra](tutoriales/cambiar-de-una-pantalla-a-otra)
 - [Intercambiar información entre pantallas](tutoriales/intercambiar-informacion-entre-pantallas)
 
-## Prácticas
+## Proyectos
 
-- ¡Hola burro!
-- Traductor
-- Club de lectura
-- Donde está mi coche
-- Ruta de los castillos
+- [¡Hola burrito!](proyectos/hola-burrito)
+- [Traductor](proyectos/hola-burrito)
+- [Club de lectura](proyectos/club-de-lectura)
+- [Donde está mi coche](proyectos/donde-esta-mi-coche)
+- [Ruta de los castillos](proyectos/ruta-de-los-castillos)
 
 ## Enlaces
 
