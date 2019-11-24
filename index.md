@@ -1,9 +1,3 @@
----
-title: App Inventor
----
-
-# Curso de App Inventor
-
 Cómo crear aplicaciones móviles de forma sencilla con [AppInventor](https://appinventor.mit.edu/).
 
 ## Presentación
