@@ -2,7 +2,7 @@
 
 Para compartir un proyecto y que esté accesible para otras personas debemos publicarlo en App Inventor.
 
-1. Seleccionamos el proyecto que queremos publicar en la página **Mis proyectos**.
+1. Seleccionamos el proyecto que queremos publicar en la página **Mis proyectos** y pulsamos el botón **Publish to Gallery**.
 
    ![](images/publicar-un-proyecto-01.png)
 
