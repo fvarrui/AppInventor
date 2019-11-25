@@ -2,28 +2,29 @@
 
 Aplicación de traducción de inglés a español.
 
-### Crear el proyecto
+## Crear el proyecto
 
 Creamos un proyecto [nuevo](../../tutoriales/crear-un-nuevo-proyecto) de nombre `HolaBurrito`.
 
-### Diseñar la interfaz
+## Diseñar la interfaz
 
 Abrimos el [**Diseñador**](../../tutoriales/disenador).
 
-#### Subir los medios al proyecto
+### Subir los medios al proyecto
 
 Subimos la [imagen de fondo](https://raw.githubusercontent.com/fvarrui/AppInventor/master/proyectos/traductor/back.jpg) al panel de **Medios**.
 
-#### Configuramos la pantalla principal
+### Configuramos la pantalla principal
 
-- Establecemos la propiedad `ImagenDeFondo` de la pantalla `Screen1` a `back.jpg`, para mostrar un imagen de fondo en la pantalla principal de la app.
-- Cambiamos la propiedad `Título` de `Screen1` por `Traductor`.
+Establecemos la propiedad `ImagenDeFondo` de la pantalla `Screen1` a `back.jpg`, para mostrar un imagen de fondo en la pantalla principal de la app.
+
+Cambiamos la propiedad `Título` de `Screen1` por `Traductor`.
 
 ![](configurar-pantalla.png)
 
-#### Añadimos los componentes
+### Añadimos los componentes
 
-- Arrastramos en el orden indicado los siguientes componentes desde la **Paleta** a la pantalla:
+Arrastramos en el orden indicado los siguientes componentes desde la **Paleta** a la pantalla:
 
 | Orden | Tipo         | Nombre (por defecto) |
 | ----- | ------------ | -------------------- |
@@ -38,7 +39,7 @@ La interfaz quedaría entonces así:
 
 #### Renombramos los componentes
 
-- [Cambiamos los nombres](../../tutoriales/renombrar-un-componente) de los componentes por los que se indican a continuación:
+[Cambiamos los nombres](../../tutoriales/renombrar-un-componente) de los componentes por los que se indican a continuación:
 
 | Nombre actual (por defecto) | Nuevo nombre    |
 | --------------------------- | --------------- |
@@ -51,9 +52,9 @@ Quedando de la siguiente manera:
 
 ![](renombrar-componentes.png)
 
-#### Cambiamos la propiedad `Texto` de los componentes
+### Cambiamos la propiedad `Texto` de los componentes
 
-- Para los siguientes componentes, establecemos los siguientes valores en su propiedad `Texto`:
+Para los siguientes componentes, establecemos los siguientes valores en su propiedad `Texto`:
 
 | Componente      | Texto                                |
 | --------------- | ------------------------------------ |
@@ -61,17 +62,17 @@ Quedando de la siguiente manera:
 | TraduccionLabel | texto traducido                      |
 | TraducirButton  | Traducir                             |
 
-#### Añadir el componente `TraductorYandex`
+### Añadir el componente `TraductorYandex`
 
-- Desde la sección **Medios** de la **Paleta**, arrastramos el componente `TraductorYandex` a la pantalla. Al tratarse de un **Componente no visible** se mostrará debajo de la pantalla.
+Desde la sección **Medios** de la **Paleta**, arrastramos el componente `TraductorYandex` a la pantalla. Al tratarse de un **Componente no visible** se mostrará debajo de la pantalla.
 
 ![](componente-no-visible-traductoryandex1.png)
 
-### Definir el comportamiento
+## Definir el comportamiento
 
 Abrimos el [Editor de bloques](../../tutoriales/editor-de-bloques).
 
-#### Añadir el evento Botón.Clic
+### Añadir el evento Clic al botón
 
 Seleccionamos el botón `TraducirButton` en el panel de **Bloques** y arrastramos el bloque de evento `cuando TraducirButton.Clic` al **Visor**.
 
@@ -79,7 +80,7 @@ Seleccionamos el botón `TraducirButton` en el panel de **Bloques** y arrastramo
 
 Los bloques dentro de éste se ejecutarán cuando se pulse el botón `TraducirButton`.
 
-#### Solicitar la traducción
+### Solicitar la traducción
 
 Seleccionamos el componente `TraductorYandex1` y arrastramos el bloque `llamar TraductorYandex1.SolicitarTraduccion` dentro del bloque `cuando TraducirButton.Clic`.
 
@@ -87,7 +88,7 @@ Seleccionamos el componente `TraductorYandex1` y arrastramos el bloque `llamar T
 
 De este modo, al pulsar el botón `TraducirButton` se solicitará al componente `TraductorYandex1` que realice una traducción.
 
-#### Especificar qué lenguajes va a traducir
+### Especificar qué lenguajes va a traducir
 
 Como vamos a traducir de *Español* a *Inglés*, debemos indicar al componente `TraductorYandex1` esa información.
 
