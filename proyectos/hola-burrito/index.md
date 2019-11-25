@@ -12,7 +12,7 @@ Abrimos el [**Diseñador**](../../tutoriales/disenador).
 
 #### Subir los medios al proyecto
 
-1. Descargamos la imagen del [burro]( https://raw.githubusercontent.com/fvarrui/AppInventor/master/proyectos/hola-burrito/burro.png ) y el sonido del [rebuzno]( https://raw.githubusercontent.com/fvarrui/AppInventor/master/proyectos/hola-burrito/rebuzno.mp3 ) a nuestro PC.
+1. Descargamos la imagen del [burro](https://raw.githubusercontent.com/fvarrui/AppInventor/master/proyectos/hola-burrito/burro.png) y el sonido del [rebuzno](https://raw.githubusercontent.com/fvarrui/AppInventor/master/proyectos/hola-burrito/rebuzno.mp3) a nuestro PC.
 
 2. Subimos la imagen del burro al proyecto:
 

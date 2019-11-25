@@ -9,6 +9,7 @@ Cómo crear aplicaciones móviles de forma sencilla con [AppInventor](https://ap
 - [Crear un proyecto nuevo](tutoriales/crear-un-proyecto-nuevo)
 - [Diseñador](tutoriales/disenador)
 - [Editor de bloques](tutoriales/editor-de-bloques)
+- [Renombrar un componente](tutoriales/renombrar-un-componente)
 - [Probar la aplicación en el dispositivo móvil mediante Wi-Fi](tutoriales/probar-la-aplicacion-en-el-dispositivo-movil-mediante-wi-fi)
 - [Probar la aplicación en el dispositivo móvil mediante cable USB](tutoriales/probar-la-aplicacion-en-el-dispositivo-movil-mediante-cable-usb)
 - [Probar la aplicación en el emulador](tutoriales/probar-la-aplicacion-en-el-emulador)
