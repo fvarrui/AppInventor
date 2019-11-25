@@ -12,7 +12,7 @@ Abrimos el [**Diseñador**](../../tutoriales/disenador).
 
 #### Subir los medios al proyecto
 
-Subimos la [imagen de fondo](https://raw.githubusercontent.com/fvarrui/AppInventor/master/proyectos/traductoir/back.jpg) al panel de **Medios**.
+Subimos la [imagen de fondo](https://raw.githubusercontent.com/fvarrui/AppInventor/master/proyectos/traductor/back.jpg) al panel de **Medios**.
 
 #### Configuramos la pantalla principal
 
