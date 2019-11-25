@@ -23,7 +23,7 @@ Subimos la [imagen de fondo](https://raw.githubusercontent.com/fvarrui/AppInvent
 
 #### Añadimos los componentes
 
-Arrastramos en el orden indicado los siguientes componentes desde la **Paleta** a la pantalla:
+- Arrastramos en el orden indicado los siguientes componentes desde la **Paleta** a la pantalla:
 
 | Orden | Tipo         | Nombre (por defecto) |
 | ----- | ------------ | -------------------- |
@@ -38,7 +38,7 @@ La interfaz quedaría entonces así:
 
 #### Renombramos los componentes
 
-[Cambiamos los nombres](../../tutoriales/renombrar-un-componente) de los componentes por los que se indican a continuación:
+- [Cambiamos los nombres](../../tutoriales/renombrar-un-componente) de los componentes por los que se indican a continuación:
 
 | Nombre actual (por defecto) | Nuevo nombre    |
 | --------------------------- | --------------- |
@@ -53,7 +53,7 @@ Quedando de la siguiente manera:
 
 #### Cambiamos la propiedad `Texto` de los componentes
 
-Para los siguientes componentes, establecemos los siguientes valores en su propiedad `Texto`:
+- Para los siguientes componentes, establecemos los siguientes valores en su propiedad `Texto`:
 
 | Componente      | Texto                                |
 | --------------- | ------------------------------------ |
@@ -63,7 +63,9 @@ Para los siguientes componentes, establecemos los siguientes valores en su propi
 
 #### Añadir el componente `TraductorYandex`
 
-Desde la sección **Medios** de la **Paleta**, arrastramos el componente `TraductorYandex` a la pantalla. Al tratarse de un **Componente no visible** se mostrará debajo de la pantalla.
+- Desde la sección **Medios** de la **Paleta**, arrastramos el componente `TraductorYandex` a la pantalla. Al tratarse de un **Componente no visible** se mostrará debajo de la pantalla.
+
+![](componente-no-visible-traductoryandex1.png)
 
 ### Definir el comportamiento
 
@@ -71,9 +73,11 @@ Abrimos el [Editor de bloques](../../tutoriales/editor-de-bloques).
 
 #### Añadir el evento Botón.Clic
 
-Seleccionamos el botón `TraducirButton` en el panel de **Bloques** y arrastramos el bloque `cuando TraducirButton.Clic` al **Visor**.
+Seleccionamos el botón `TraducirButton` en el panel de **Bloques** y arrastramos el bloque de evento `cuando TraducirButton.Clic` al **Visor**.
 
 ![](evento-cuando-traducirbutton-clic.png)
+
+Los bloques dentro de éste se ejecutarán cuando se pulse el botón `TraducirButton`.
 
 #### Solicitar la traducción
 
@@ -81,11 +85,13 @@ Seleccionamos el componente `TraductorYandex1` y arrastramos el bloque `llamar T
 
 ![](evento-llamar-traductoryandex1-solicitartraduccion.png)
 
+De este modo, al pulsar el botón `TraducirButton` se solicitará al componente `TraductorYandex1` que realice una traducción.
+
 #### Especificar qué lenguajes va a traducir
 
-Como vamos a traducir de Español a Inglés, debemos indicar al componente `TraductorYandex1`esa información.
+Como vamos a traducir de *Español* a *Inglés*, debemos indicar al componente `TraductorYandex1` esa información.
 
-Desde la sección `Texto` del panel `Bloques` arrastramos un bloque de texto vacío `""` y lo encajamos en el conector `lenguajeAlQueTraducir` del componente `TraductorYandex1`.
+Desde la sección `Texto` del panel `Bloques` arrastramos un bloque de texto vacío `""` y lo encajamos en el conector `lenguajeAlQueTraducir` del bloque que añadimos en el paso anterior.
 
  Pulsamos en el bloque de texto vacío `""`  e introducimos `en-es` (para traducir del inglés al español).
 
