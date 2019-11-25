@@ -20,7 +20,7 @@ Cómo crear aplicaciones móviles de forma sencilla con [AppInventor](https://ap
 ## Proyectos
 
 - [¡Hola burrito!](proyectos/hola-burrito)
-- [Traductor](proyectos/hola-burrito)
+- [Traductor](proyectos/traductor)
 - [Club de lectura](proyectos/club-de-lectura)
 - [Donde está mi coche](proyectos/donde-esta-mi-coche)
 - [Ruta de los castillos](proyectos/ruta-de-los-castillos)
