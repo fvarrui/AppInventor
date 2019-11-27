@@ -4,7 +4,7 @@ Aplicación de traducción de inglés a español.
 
 ## Crear el proyecto
 
-Creamos un proyecto [nuevo](../../tutoriales/crear-un-nuevo-proyecto) de nombre `HolaBurrito`.
+Creamos un proyecto [nuevo](../../tutoriales/crear-un-nuevo-proyecto) de nombre `Traductor`.
 
 ## Diseñar la interfaz
 
@@ -16,7 +16,7 @@ Subimos la [imagen de fondo](https://raw.githubusercontent.com/fvarrui/AppInvent
 
 ### Configuramos la pantalla principal
 
-Establecemos la propiedad `ImagenDeFondo` de la pantalla `Screen1` a `back.jpg`, para mostrar un imagen de fondo en la pantalla principal de la app.
+Establecemos la propiedad `ImagenDeFondo` de la pantalla `Screen1` a `back.jpg`, para mostrar una imagen de fondo en la pantalla principal de la app.
 
 Cambiamos la propiedad `Título` de `Screen1` por `Traductor`.
 
@@ -29,7 +29,7 @@ Arrastramos en el orden indicado los siguientes componentes desde la **Paleta** 
 | Orden | Tipo         | Nombre (por defecto) |
 | ----- | ------------ | -------------------- |
 | 1     | Etiqueta     | Etiqueta1            |
-| 2     | CampoDeTexto | CampoDeTexto         |
+| 2     | CampoDeTexto | CampoDeTexto1        |
 | 3     | Etiqueta     | Etiqueta2            |
 | 4     | Botón        | Botón1               |
 
