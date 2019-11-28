@@ -21,8 +21,8 @@ Cómo crear aplicaciones móviles de forma sencilla con [AppInventor](https://ap
 
 - [¡Hola burrito!](proyectos/hola-burrito)
 - [Traductor](proyectos/traductor)
-- [Club de lectura](proyectos/club-de-lectura)
 - [Donde está mi coche](proyectos/donde-esta-mi-coche)
+- [Club de lectura](proyectos/club-de-lectura)
 - [Ruta de los castillos](proyectos/ruta-de-los-castillos)
 
 ## Enlaces
@@ -37,3 +37,4 @@ Cómo crear aplicaciones móviles de forma sencilla con [AppInventor](https://ap
 - [App Inventor resources](https://appinventor.mit.edu/explore/resources): recursos educativos para aplicar App Inventor en el aula.
 - [MIT App Inventor Teaching Modules](http://appinventor.mit.edu/explore/teach/mitcurriculum): lecciones progresivas de App Inventor.
 - [Tutorials for MIT App Inventor](http://appinventor.mit.edu/explore/ai2/tutorials).
+- [La gamificación y sus aplicaciones](https://www.erubrica.com/blog/educacion/la-gamificacion-y-su-aplicacion/)

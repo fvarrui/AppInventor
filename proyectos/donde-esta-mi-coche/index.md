@@ -12,8 +12,6 @@ La interfaz para esta aplicación es la que se muestra en la siguiente ilustraci
 
 > Los nombres de los componentes que se usarán desde el **Editor de bloques** se han resaltado en rojo.
 
-Debemos deshabilitar el botón `RecordarButton` inicialmente, hasta que el `SensorDeUbicación` haya obtenido una localización válida, para evitar un comportamiento no deseado en la aplicación.
-
 Componentes no visibles utilizados en este proyecto:
 
 - **SensorDeUbicación**: Este componente permite obtener información sobre la localización del dispositivo (dirección, coordenadas GPS, ...).
