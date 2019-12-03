@@ -1,6 +1,6 @@
 # Añadir un retardo (sleep)
 
-Para poder añadir un retardo o tiempo de espera durante la ejecución, debemos [importar](importar-una-extension) en nuestro proyecto la siguiente [extensión](https://github.com/fvarrui/AppInventor/raw/master/extensiones/fvarrui.appinventor.components.aix):
+Para poder añadir un retardo o tiempo de espera durante la ejecución, debemos [importar](importar-una-extension) en nuestro proyecto la siguiente extensión:
 
 ```
 https://github.com/fvarrui/AppInventor/raw/master/extensiones/fvarrui.appinventor.components.aix
