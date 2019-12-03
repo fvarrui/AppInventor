@@ -15,8 +15,11 @@ Cómo crear aplicaciones móviles de forma sencilla con [AppInventor](https://ap
 - [Probar la aplicación en el emulador](tutoriales/probar-la-aplicacion-en-el-emulador)
 - [Publicar un proyecto](tutoriales/publicar-un-proyecto)
 - [Cambiar de una pantalla (screen) a otra](tutoriales/cambiar-de-una-pantalla-a-otra)
-- [Intercambiar información entre pantallas](tutoriales/intercambiar-informacion-entre-pantallas)
-- [Combinar 2 proyectos App Inventor en uno (trabajo colaborativo)](https://github.com/fvarrui/AI2MergerTool/blob/master/README.md)
+- [Intercambiar información entre pantallas (TinyDB)](tutoriales/intercambiar-informacion-entre-pantallas) 
+- Intercambiar información entre aplicaciones (CloudDB)
+- [Combinar 2 proyectos App Inventor (trabajo colaborativo)](https://github.com/fvarrui/AI2MergerTool/blob/master/README.md)
+- Añadir extensiones a un proyecto
+- Añadir un retardo (delay)
 
 ## Proyectos
 
