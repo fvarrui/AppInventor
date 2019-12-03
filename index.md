@@ -18,8 +18,8 @@ Cómo crear aplicaciones móviles de forma sencilla con [AppInventor](https://ap
 - [Intercambiar información entre pantallas (TinyDB)](tutoriales/intercambiar-informacion-entre-pantallas) 
 - Intercambiar información entre aplicaciones (CloudDB)
 - [Combinar 2 proyectos App Inventor (trabajo colaborativo)](https://github.com/fvarrui/AI2MergerTool/blob/master/README.md)
-- Añadir extensiones a un proyecto
-- Añadir un retardo (delay)
+- [Añadir extensiones a un proyecto](tutoriales/importar-una-extension)
+- [Añadir un retardo (sleep)](tutoriales/anadir-un-retardo)
 
 ## Proyectos
 
