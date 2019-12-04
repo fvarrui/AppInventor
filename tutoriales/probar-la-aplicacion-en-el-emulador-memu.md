@@ -1,4 +1,4 @@
-# Probar la aplicación en un emulador: MEMU
+# Probar la aplicación en el emulador MEMU
 
 Es posible ejecutar nuestra aplicación App Inventor en un emulador cuando no disponemos de un dispositivo móvil Android donde probarla.
 
