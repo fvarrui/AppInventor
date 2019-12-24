@@ -1,5 +1,3 @@
-Cómo crear aplicaciones móviles de forma sencilla con [AppInventor](https://appinventor.mit.edu/).
-
 ## Presentación
 
 - [El móvil como recurso didáctico](https://docs.google.com/presentation/d/10dgxGJN1xbqBhV4Pzazc5RxcroJgh6kRAVwRqx2GLuo/edit?usp=sharing)
