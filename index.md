@@ -1,13 +1,17 @@
-## Presentación
+## Presentaciones
 
 - [El móvil como recurso didáctico](https://docs.google.com/presentation/d/10dgxGJN1xbqBhV4Pzazc5RxcroJgh6kRAVwRqx2GLuo/edit?usp=sharing)
+- [Uso avanzado de App Inventor](https://docs.google.com/presentation/d/15VHz_bMTZymPbz30ian7ok9eUW-ThsAotu2IoSgogz4/edit?usp=sharing)
 
 ## Tutoriales
 
 - [Crear un proyecto nuevo](tutoriales/crear-un-proyecto-nuevo)
 - [Diseñador](tutoriales/disenador)
+  - [Renombrar un componente](tutoriales/renombrar-un-componente)
 - [Editor de bloques](tutoriales/editor-de-bloques)
-- [Renombrar un componente](tutoriales/renombrar-un-componente)
+  - [Bloques integrados (built-in blocks)](tutoriales/bloques-integrados)
+  - [Definición y uso de variables](tutoriales/definicion-y-uso-de-variables)
+  - [Definición y llamada de procedimientos](tutoriales/definicion-y-llamada-de-procedimientos)
 - [Probar la aplicación en el dispositivo móvil mediante Wi-Fi](tutoriales/probar-la-aplicacion-en-el-dispositivo-movil-mediante-wi-fi)
 - [Probar la aplicación en el dispositivo móvil mediante cable USB](tutoriales/probar-la-aplicacion-en-el-dispositivo-movil-mediante-cable-usb)
 - [Probar la aplicación en el emulador MEMU](tutoriales/probar-la-aplicacion-en-el-emulador-memu)
@@ -17,7 +21,11 @@
 - Intercambiar información entre aplicaciones (CloudDB)
 - [Combinar 2 proyectos App Inventor (trabajo colaborativo)](https://github.com/fvarrui/AI2MergerTool/blob/master/README.md)
 - [Añadir extensiones a un proyecto](tutoriales/importar-una-extension)
-- [Añadir un retardo (sleep)](tutoriales/anadir-un-retardo)
+  - [Añadir un retardo (sleep)](tutoriales/anadir-un-retardo)
+
+## Miscelánea
+
+* [Alternativas a App Inventor](miscelanea/alternativas-a-appinventor)
 
 ## Proyectos
 
@@ -31,6 +39,9 @@
 
 - [App Inventor 2](https://appinventor.mit.edu/).
 - [Getting started with MIT App Inventor](https://appinventor.mit.edu/explore/get-started): empezar a trabajar con App Inventor.
+- [App Inventor Reference Documentation](http://ai2.appinventor.mit.edu/reference/): Guía de referencia oficial de App Inventor.
+  - [Built-in blocks](http://ai2.appinventor.mit.edu/reference/blocks/): bloques disponibles en App Inventor.
+  - [Component reference](http://ai2.appinventor.mit.edu/reference/components/): componentes disponibles en App Inventor.
 - [Setting up your classroom for teaching App Inventor](https://appinventor.mit.edu/explore/ai2/setup-classroom): cómo configurar el aula para trabajar con App Inventor.
 - [Designer and blocks editor](https://appinventor.mit.edu/explore/designer-blocks): el diseñador y el editor de bloques de App Inventor.
 - [Installing App Inventor Tools on Windows](https://appinventor.mit.edu/explore/ai2/windows): cómo instalar las herramientas de App Inventor para probar nuestras aplicaciones en el teléfono o tablet mediante un cable USB o usando el emulador.
