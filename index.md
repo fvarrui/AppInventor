@@ -23,10 +23,6 @@
 - [Añadir extensiones a un proyecto](tutoriales/importar-una-extension)
   - [Añadir un retardo (sleep)](tutoriales/anadir-un-retardo)
 
-## Miscelánea
-
-* [Alternativas a App Inventor](miscelanea/alternativas-a-appinventor)
-
 ## Proyectos
 
 - [¡Hola burrito!](proyectos/hola-burrito)
@@ -34,10 +30,26 @@
 - [¿Donde está mi coche?](proyectos/donde-esta-mi-coche)
 - [Club de lectura](proyectos/club-de-lectura)
 - [Ruta de los castillos](proyectos/ruta-de-los-castillos)
+- Media aritmética
+- FingerEater
+- HungryMonkey
+- Linterna
+- Nivelador
+- Sensores
+- Bluetooth
+
+## Miscelánea
+
+  * [Alternativas a App Inventor](miscelanea/alternativas-a-appinventor)
+  * [OpenGameArt: Recursos libres para la creación de aplicaciones (imágenes, sonidos, ...)](https://opengameart.org/)
+  * [Freepik: Imágenes libres](https://www.freepik.com/)
+  * [Flaticon: Iconos libres](https://www.flaticon.com/)
 
 ## Enlaces
 
 - [App Inventor 2](https://appinventor.mit.edu/).
+- [AppInventor.org](http://www.appinventor.org/): Recursos y tutoriales para crear aplicaciones con App Inventor.
+- [App Inventor 2 Concept Cards](https://appinventor.mit.edu/explore/sites/all/files/ConceptCards/ai2/AI2_ConceptCards.pdf): tarjetas en formato imprimible para apredner de forma rápida conceptos de AI2.
 - [Getting started with MIT App Inventor](https://appinventor.mit.edu/explore/get-started): empezar a trabajar con App Inventor.
 - [App Inventor Reference Documentation](http://ai2.appinventor.mit.edu/reference/): Guía de referencia oficial de App Inventor.
   - [Built-in blocks](http://ai2.appinventor.mit.edu/reference/blocks/): bloques disponibles en App Inventor.
@@ -50,4 +62,6 @@
 - [App Inventor resources](https://appinventor.mit.edu/explore/resources): recursos educativos para aplicar App Inventor en el aula.
 - [MIT App Inventor Teaching Modules](http://appinventor.mit.edu/explore/teach/mitcurriculum): lecciones progresivas de App Inventor.
 - [Tutorials for MIT App Inventor](http://appinventor.mit.edu/explore/ai2/tutorials).
-- [La gamificación y sus aplicaciones](https://www.erubrica.com/blog/educacion/la-gamificacion-y-su-aplicacion/)
+- [La gamificación y sus aplicaciones](https://www.erubrica.com/blog/educacion/la-gamificacion-y-su-aplicacion/).
+- [MIT App Inventor Extensions](https://mit-cml.github.io/extensions/).
+- [PuraVida Apps AI Extensions](https://puravidaapps.com/extensions.php).

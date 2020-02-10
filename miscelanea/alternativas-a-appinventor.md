@@ -20,6 +20,14 @@ Plataforma para crear aplicaciones para dispositivos Android también basada en 
 
 Podemos acceder desde el siguiente [enlace](http://www.appybuilder.com/).
 
+## Thunkable
+
+Esta alternativa a App Inventor permite **crear aplicaciones para disposivos móviles Android e iOS**. Ofrece una interfaz muy similar a App Inventor: dispone de un diseñador de interfaz y un editor de bloques para programar el comportamiento de la aplicación. No es de código abierto, pero es gratuita si nuestros proyectos son públicos. Para disponer de proyectos privados es necesario la suscripción de pago, así como para poder publicar las apps en el App Store (iOS) o en Google Play (Android).
+
+![Thunkable](images/thunkable.png)
+
+Podemos acceder desde el siguiente [enlace](https://thunkable.com/#/).
+
 ## AppsGeyser
 
 Esta plataforma web nos permite crear aplicaciones nuevas para Android a partir de plantillas, lo que facilita mucho el trabajo y permite tener una aplicación operativa en cuestión de minutos. Prácticamente consiste en elegir una plantilla y configurar sus parámetros para adaptarlos a nuestras necesidades. No se requieren en absoluto conocimientos de programación, pues ni siquiera hay un editor de bloques para diseñar el comportamiento de nuestra aplicación, algo que en parte le resta operatividad. También incluye opciones que facilitan la distribución de nuestras aplicaciones a través de distintos portales como Google Play, y poder obtener beneficio por ello.
