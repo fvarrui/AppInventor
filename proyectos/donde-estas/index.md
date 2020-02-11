@@ -4,16 +4,6 @@ La app que vamos a desarrollar en este proyecto permite localizar y compartir en
 
 Para compartir información entre las apps se ha utilizado el componente **FirebaseDB**, que permite notificar a los dispositivos conectados cualquier cambio realizado a la información almacenada.
 
-Firebase Token: 
-
-```
-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkIjp7InVpZCI6IjU4NjQ1NTAzLTM3NzctNGI4ZS05ZmZkLTQ2YWE2ZjhhODg2ZSIsInByb2plY3QiOiJEb25kZUVzdGFzMiIsImRldmVsb3BlciI6ImZ2YXJydWlAaWVzZG9taW5nb3BlcmV6bWluaWs6ZXMifSwidiI6MCwiZXhwIjoxNjcyODgzNzUwOCwiaWF0IjoxNTgxNDQ4NzA4fQ.6LNn31dZ8N8Y8a_ZIdQk8Mj5ncvhoiLCcJMuwSufRkM
-```
-
-Project Bucket: `DondeEstas2`
-
-[Descargar APK](DondeEstas2.apk)
-
 ## Medios
 
 * Icono de la aplicación: [location.png](location.png).
