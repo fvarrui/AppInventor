@@ -6,7 +6,7 @@ La cantidad de luz se mide en **luxes** (lúmenes por metro cuadrado). El umbral
 
 ## Medios
 
-* Descargar el [icono de la aplicación](bulb.png).
+* Icono de la aplicación: [bulb.png](bulb.png).
 
 ## Extensiones
 

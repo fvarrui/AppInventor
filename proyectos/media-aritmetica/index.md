@@ -6,19 +6,15 @@ La información se introduce mediante un cuadro de texto, que luego convertido e
 
 ## Medios
 
-* Descargar el [icono de la aplicación](arithmetic.png).
+* Icono de la aplicación: [arithmetic.png](arithmetic.png).
 
 ## Diseñar la interfaz
-
-### Screen1
 
 La interfaz de la pantalla principal será la siguiente:
 
 ![](interfaz.png)
 
 ## Comportamiento de la aplicación
-
-### Screen1
 
 #### Procedimiento `MediaAritmética`
 
