@@ -12,6 +12,8 @@ eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkIjp7InVpZCI6IjU4NjQ1NTAzLTM3NzctNGI4ZS0
 
 Project Bucket: `DondeEstas2`
 
+[Descargar APK](DondeEstas2.apk)
+
 ## Medios
 
 * Icono de la aplicación: [location.png](location.png).
