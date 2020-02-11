@@ -19,6 +19,7 @@
 - [Cambiar de una pantalla (screen) a otra](tutoriales/cambiar-de-una-pantalla-a-otra)
 - [Intercambiar información entre pantallas (TinyDB)](tutoriales/intercambiar-informacion-entre-pantallas) 
 - Intercambiar información entre aplicaciones (CloudDB)
+- Intercambiar información entre aplicaciones (FirebaseDB)
 - [Combinar 2 proyectos App Inventor (trabajo colaborativo)](https://github.com/fvarrui/AI2MergerTool/blob/master/README.md)
 - [Añadir extensiones a un proyecto](tutoriales/importar-una-extension)
   - [Añadir un retardo (sleep)](tutoriales/anadir-un-retardo)
@@ -32,12 +33,12 @@
 - [Ruta de los castillos](proyectos/ruta-de-los-castillos)
 - [Media aritmética](proyectos/media-aritmetica)
 - [Linterna](proyectos/linterna)
-- Nivelador
-- FingerEater
-- HungryMonkey
-- Nivelador
-- Sensores
-- Bluetooth
+- [¿Dónde estás?](proyectos/donde-estas)
+- [Bluetooth](proyectos/bluetooth)
+- [Nivelador](proyectos/nivelador)
+- [Hungry Monkey](proyectos/hungry-monkey)
+- [Mountain Town](proyectos/mountain-town)
+- [Finger Eater](proyectos/finger-eater)
 
 ## Miscelánea
 
