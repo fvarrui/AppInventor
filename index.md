@@ -30,10 +30,11 @@
 - [¿Donde está mi coche?](proyectos/donde-esta-mi-coche)
 - [Club de lectura](proyectos/club-de-lectura)
 - [Ruta de los castillos](proyectos/ruta-de-los-castillos)
-- Media aritmética
+- [Media aritmética](proyectos/media-aritmetica)
+- [Linterna](proyectos/linterna)
+- Nivelador
 - FingerEater
 - HungryMonkey
-- Linterna
 - Nivelador
 - Sensores
 - Bluetooth
