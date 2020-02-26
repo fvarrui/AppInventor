@@ -1,3 +1,57 @@
-title: App Inventor
-descriptiuon: Cómo crear aplicaciones móviles de forma sencilla con AppInventor
-theme: jekyll-theme-cayman
+#
+# Site settings
+#
+remote_theme: LeakyAbstractions/pretty-docs
+url: https://fvarrui.github.io
+baseurl: /AppInventor
+title: &site_title App Inventor
+description: &site_description Aprende a crear tus propias aplicaciones Android con App Inventor
+branding:
+  icon:
+    type: fa
+    name: fa-android
+  highlight: App
+  bold: Inventor
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  input: GFM
+  hard_wrap: false
+  footnote_nr: 1
+  parse_block_html: true
+
+#
+# Owner
+#
+owner:
+  name: Francisco Vargas Ruiz
+  copyright:
+    author: Creado por [Francisco Vargas Ruiz](https://github.com/fvarrui)
+
+#
+# Collections
+#
+collections:
+  doc:
+    output: true
+    permalink: /:path.html
+
+#
+# Default values
+#
+defaults:
+  -
+    scope:
+      path: ""
+      type: doc
+    values:
+      layout: doc
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: doc

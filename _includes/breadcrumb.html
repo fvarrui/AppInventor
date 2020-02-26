@@ -1,0 +1,9 @@
+<!-- BREADCRUMB -->
+<ol class="breadcrumb">
+    <li><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
+    {% if page.parent %}
+    {% assign parent = site.doc | where: "url", page.parent | first %}
+    <li><a href="{{ page.parent | prepend: site.baseurl }}">{{ parent.title }}</a></li>
+    {% endif %}
+    <li class="active">{{ page.title }}</li>
+</ol>
