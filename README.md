@@ -1,4 +1,4 @@
-# App Inventor
+# App Inventor 
 
 Guías, tutoriales y recursos relacionados con App Inventor.
 
@@ -19,3 +19,6 @@ serve
 http://127.0.0.1:4000/AppInventor/
 ```
 
+## Atribuciones
+
+Favicon ![](assets/images/favicon.png) creado por [Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect) en [FlatIcon](https://www.flaticon.com).
