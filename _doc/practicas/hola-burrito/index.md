@@ -16,11 +16,11 @@ Creamos un proyecto [nuevo](../../tutoriales/crear-un-proyecto-nuevo) de nombre 
 
 ### Interfaz
 
-Abrimos el [**Diseñador**](../../tutoriales/disenador).
+Abrimos el [Diseñador](../../tutoriales/disenador).
 
 #### Medios
 
-1. Descargamos la imagen del [burro](https://raw.githubusercontent.com/fvarrui/AppInventor/master/proyectos/hola-burrito/burro.png) y el sonido del [rebuzno](https://raw.githubusercontent.com/fvarrui/AppInventor/master/proyectos/hola-burrito/rebuzno.mp3) a nuestro PC.
+1. Descargamos la imagen del [burro](https://github.com/fvarrui/AppInventor/raw/master/_doc/practicas/hola-burrito/burro.png) y el sonido del [rebuzno](https://github.com/fvarrui/AppInventor/raw/master/_doc/practicas/hola-burrito/rebuzno.mp3) a nuestro PC.
 
 2. Subimos la imagen del burro al proyecto:
 
